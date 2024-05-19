@@ -16,8 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=SciPy)
 ![Static Badge](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=mlflow)
 
-![Static Badge](https://img.shields.io/badge/PyQt-black?style=for-the-badge&logo=qtF)
 ![Static Badge](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![Static Badge](https://img.shields.io/badge/Pyqt-black?style=for-the-badge&logo=qt&link=https%3A%2F%2Fwww.python.org%2F)
 ![Static Badge](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)
 ![Static Badge](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
@@ -29,4 +29,3 @@
 ![Static Badge](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 
 
-### Follow Me
